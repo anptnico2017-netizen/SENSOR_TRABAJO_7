@@ -5,5 +5,7 @@ public class MainSensor {
         SensorTemperatura ID=new SensorTemperatura();
         SensorTemperatura valor=new SensorTemperatura();
         SensorTemperatura unidad=new SensorTemperatura();
+        ID.setIdSensor("232");
+        valor.getValoractual();
     }
 }
